@@ -1,4 +1,4 @@
-# MAMS Frontend
+# MAMS Frontend: military-asset-management-frontend
 
 React + Vite single-page application.
 
